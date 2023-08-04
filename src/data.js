@@ -5,7 +5,7 @@ function chillHop() {
 
         {
             name:"Christmas Radio en directo",
-            artist: "ChristmasRadioendirecto",
+            artist: "ChristmasRadiodirecto",
             cover: "https://img.freepik.com/psd-gratis/maqueta-microfono-escritorio-rectangular-vista-frontal_1332-10597.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
