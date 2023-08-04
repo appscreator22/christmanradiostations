@@ -51,7 +51,7 @@ function chillHop() {
         {
             name:"The Power Station",
             artist: "ThePowerStation",
-            cover: "ttps://img.freepik.com/vector-gratis/radio-plana-retro-ilustrada_23-2148812864.jpg",
+            cover: "https://img.freepik.com/psd-gratis/maqueta-microfono-escritorio-rectangular-vista-frontal_1332-10597.jpg",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
             audio: "https://securestreams.reliastream.com:1072/hd",
